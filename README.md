@@ -1,5 +1,4 @@
 ﻿# user-authentication-api
----
 
 ## Features
 
